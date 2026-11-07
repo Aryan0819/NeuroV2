@@ -149,6 +149,3 @@ The source tree includes dataset-quality and model-comparison utilities plus an 
 
 Contributions that improve the application, documentation, or reproducibility are welcome.
 
-## 📄 License
-
-No license file is currently published in this repository. Check with the project maintainer before reusing or redistributing project materials.
